@@ -44,3 +44,6 @@ venv.bak/
 # Matplotlib output
 *.png
 *.pdf
+
+# Documentation (local only)
+*.md
